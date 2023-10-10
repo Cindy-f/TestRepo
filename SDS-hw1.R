@@ -63,3 +63,4 @@ plot(datasub$margin,datasub$Amount,  main = 'relationship between margin of appr
 # 4.3 calculate the correlation coefficient
 cor(datasub$margin,datasub$Amount)
 
+# last updated
